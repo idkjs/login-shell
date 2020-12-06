@@ -1,6 +1,6 @@
 # login-shell
 
-[`login-shell`](https://github.com/peterpme/dotfiles/blob/master/bin/login-shell) wrapper for fish using [bass](https://github.com/edc/bass).
+[`login-shell`](https://github.com/peterpme/dotfiles/blob/master/bin/login-shell) port for fish.
 
 ## Installation
 
